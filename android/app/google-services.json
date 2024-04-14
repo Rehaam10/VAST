@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "804124653009",
+    "project_id": "vast-app-a6de2",
+    "storage_bucket": "vast-app-a6de2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804124653009:android:40a2e99e54d398ae571cf0",
+        "android_client_info": {
+          "package_name": "com.example.rahoma_customers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTkxyuwcIQttX01ps3trG3bXx8LCc3TPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804124653009:android:ec035fe936a30c41571cf0",
+        "android_client_info": {
+          "package_name": "com.example.rahoma_suupliers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTkxyuwcIQttX01ps3trG3bXx8LCc3TPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
